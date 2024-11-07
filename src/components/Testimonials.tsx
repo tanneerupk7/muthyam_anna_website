@@ -5,19 +5,19 @@ const testimonials = [
   {
     name: 'Michael Thompson',
     role: 'Small Business Owner',
-    content: 'Muthyam\'s expertise in tax planning saved our business thousands of dollars. His attention to detail and proactive approach is exactly what we needed.',
+    content: 'Ramesh\'s expertise in tax planning saved our business thousands of dollars. His attention to detail and proactive approach is exactly what we needed.',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=100'
   },
   {
     name: 'Emily Rodriguez',
     role: 'Startup Founder',
-    content: 'Working with Muthyam has been transformative for our startup. His strategic financial guidance helped us make informed decisions during critical growth phases.',
+    content: 'Working with Ramesh has been transformative for our startup. His strategic financial guidance helped us make informed decisions during critical growth phases.',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=100'
   },
   {
     name: 'David Chen',
     role: 'Real Estate Investor',
-    content: 'Muthyam\'s deep understanding of real estate taxation and investment strategies has been invaluable. He\'s more than an accountant; he\'s a trusted advisor.',
+    content: 'Ramesh\'s deep understanding of real estate taxation and investment strategies has been invaluable. He\'s more than an accountant; he\'s a trusted advisor.',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=100'
   }
 ];
