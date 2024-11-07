@@ -1,6 +1,5 @@
 import React from 'react';
 import { Award, BookOpen, Users2 } from 'lucide-react';
-
 export default function About() {
   return (
     <section id="about" className="py-20 bg-gray-50">
@@ -9,7 +8,7 @@ export default function About() {
           <div className="relative">
             <img
               src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&q=80&w=800"
-              alt="Muthyam Reddy"
+              alt="Ramesh Babu"
               className="rounded-lg shadow-xl"
             />
             <div className="absolute -bottom-6 -right-6 grid grid-cols-3 gap-4">
