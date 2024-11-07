@@ -37,15 +37,15 @@ export default function Contact() {
             <div className="space-y-6">
               <div className="flex items-center">
                 <Phone className="h-6 w-6 text-blue-600 mr-4" />
-                <span className="text-gray-600">+1 (555) 123-4567</span>
+                <span className="text-gray-600">+91 8019636815</span>
               </div>
               <div className="flex items-center">
                 <Mail className="h-6 w-6 text-blue-600 mr-4" />
-                <span className="text-gray-600">muthyam.reddy@example.com</span>
+                <span className="text-gray-600">rameshbabu.ca@gmail.com.com</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-6 w-6 text-blue-600 mr-4" />
-                <span className="text-gray-600">123 Financial District, New York, NY 10004</span>
+                <span className="text-gray-600">6-1-912/2/a, Khairathabad, NY 500004</span>
               </div>
             </div>
           </div>
